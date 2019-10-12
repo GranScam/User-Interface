@@ -64,3 +64,113 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+#wrap { 
+	width: 900px; 
+	margin: 0 auto; 
+}
+
+nav a {
+	display: inline-block;
+	color: gray;
+	text-decoration-line: none;
+	display: inline-block;
+	padding: 20px; 
+	
+}
+
+p {
+	display: inline-block;
+	height: 225px;
+	width: 425px;
+	padding: 10px;
+	margin 0;
+}
+
+nav a:hover {
+	color: blue;
+}
+
+.started .box:hover {
+	color: blue;
+}
+
+.logo {
+	float: right;
+	
+	
+}
+
+.started {
+	font-size: 65px;
+	text-align: center;
+	width: 450px;
+	float: left;
+	position: relative;
+	top: 75px;
+	
+}
+
+.box {
+	font-size: 25px;
+	position: relative;
+	top: -10px;
+	text-decoration: none;
+	color: black;
+
+	
+}
+
+.circle-pic {
+	float: right;	
+	width: 450px;
+}
+
+
+.features {
+	display: inline-block;
+	text-align: left;
+	width: 450px;
+
+ 
+}
+
+.about {
+	display: inline-block;
+	text-align: left;
+	float: right;
+	width: 450px;
+}
+
+.mid {
+	width: 900px;
+	position: relative;
+	top: -100px;
+}
+
+
+.first-sec {
+	display: inline-block;
+	
+}
+
+
+.services {
+	display: inline-block;
+	width: 200px;
+	
+}
+
+.product {
+	display: inline-block;
+	width: 200px;
+}
+
+.vision {
+	display: inline-block;
+	width: 200px;
+}
+
+.end {
+	text-align: center;
+	color: black;
+}
